@@ -1,0 +1,26 @@
+fastapi
+uvicorn
+pandas
+numpy
+scipy
+python-multipart
+tabulate
+pydantic
+pydantic-settings
+python-dotenv
+httpx
+openpyxl
+sqlalchemy
+anthropic
+pyarrow
+openai
+
+# RAG Dependencies
+chromadb>=0.4.22
+sentence-transformers>=2.2.2
+
+# LangChain Dependencies
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-experimental>=0.0.47
+langchain-core>=0.1.0
