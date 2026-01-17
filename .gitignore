@@ -55,3 +55,4 @@ backend/data/
 
 # Local configs
 *.local
+backend/sk-proj*
